@@ -34,6 +34,8 @@ import eventprocessing.utils.mapping.MessageMapper;
  *
  */
 public class StartServices {
+	
+	//tests
 
 
 		
